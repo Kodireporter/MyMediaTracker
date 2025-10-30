@@ -3,7 +3,6 @@
 Eine Desktop-Anwendung zur Verfolgung von Filmen und Serien, die mit Python, Tkinter und der TMDb-API erstellt wurde.
 
 ![Screenshot der Anwendung](screenshot.png)
-*(**Hinweis:** Ersetze `screenshot.png` durch den Namen eines Screenshots, den du mit ins Repository hochlädst, oder lösche diese Zeile.)*
 
 ## Über das Projekt
 
@@ -107,4 +106,5 @@ Um die `.exe`-Datei selbst zu erstellen, wird PyInstaller benötigt:
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
+
 
