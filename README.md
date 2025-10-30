@@ -45,7 +45,7 @@ Es gibt zwei Möglichkeiten, die Anwendung zu nutzen:
 
 ### 1. Als `.exe` (Windows) verwenden
 
-1.  Lade die `app.exe` aus dem [Releases-Tab](https://github.com/DEIN-USERNAME/DEIN-REPO-NAME/releases) dieses Repos herunter (oder aus dem `dist`-Ordner, falls du selbst buildest).
+1.  Lade die `app.exe` aus dem [Releases-Tab](https://github.com/Kodireporter/MYMediaTracker/releases) dieses Repos herunter (oder aus dem `dist`-Ordner, falls du selbst buildest).
 2.  Lege die `app.exe` in einen eigenen Ordner (z.B. auf deinem Desktop).
 3.  Lege die `my_logo.ico`-Datei (aus diesem Repo) in denselben Ordner.
 4.  Starte die `app.exe`. Beim ersten Start wird im selben Ordner automatisch die Datenbankdatei `media_tracker.db` erstellt.
@@ -54,8 +54,8 @@ Es gibt zwei Möglichkeiten, die Anwendung zu nutzen:
 
 1.  Klone dieses Repository:
     ```bash
-    git clone [https://github.com/DEIN-USERNAME/DEIN-REPO-NAME.git](https://github.com/DEIN-USERNAME/DEIN-REPO-NAME.git)
-    cd DEIN-REPO-NAME
+    git clone [https://github.com/Kodireporter/MyMediaTracker.git](https://github.com/Kodireporter/MyMediaTracker.git)
+    cd MyMediaTracker
     ```
 
 2.  Installiere die notwendigen Python-Bibliotheken:
@@ -107,3 +107,4 @@ Um die `.exe`-Datei selbst zu erstellen, wird PyInstaller benötigt:
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz.
+
